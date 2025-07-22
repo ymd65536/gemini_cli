@@ -10,7 +10,9 @@
             "extensions": [
                 "VisualStudioExptTeam.vscodeintellicode",
                 "DavidAnson.vscode-markdownlint",
-                "ms-azuretools.vscode-containers"
+                "ms-azuretools.vscode-containers",
+                "GoogleCloudTools.cloudcode",
+                "Google.geminicodeassist"
             ]
         }
     }
