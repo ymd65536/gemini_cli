@@ -1,0 +1,17 @@
+{
+    "name": "Gemini CLI Container",
+    "dockerFile": "Dockerfile",
+    "postCreateCommand": "sh .devcontainer/postCreateCommand.sh",
+    "features": {
+        "ghcr.io/devcontainers/features/github-cli":{}
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "VisualStudioExptTeam.vscodeintellicode",
+                "DavidAnson.vscode-markdownlint",
+                "ms-azuretools.vscode-containers"
+            ]
+        }
+    }
+}
