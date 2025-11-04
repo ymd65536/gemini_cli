@@ -1,4 +1,8 @@
-# Gemini CLIを試す
+# 【Google Cloud】手を動かして学ぶGoogle Cloud Gemini CLI
+
+## はじめに
+
+[gemini-cli github](https://github.com/google-gemini/gemini-cli.git)
 
 ## 前提
 
