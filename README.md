@@ -1,4 +1,4 @@
-# 【Google Cloud】手を動かして学ぶGoogle Cloud Gemini CLI
+# 【Google Cloud】手を動かして学ぶ Gemini CLI
 
 ## はじめに
 
